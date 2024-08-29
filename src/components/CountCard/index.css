@@ -1,0 +1,23 @@
+.count-card-container{
+    display: flex;
+    gap: 0.3rem;
+    padding: 1rem;
+    justify-content: space-between;
+    color: white;
+    width: 20rem;
+    border-radius: 0.3rem;
+    cursor: pointer;
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    float: right;
+}
+
+.left{
+    display: flex;
+    align-items: center;
+}
+
